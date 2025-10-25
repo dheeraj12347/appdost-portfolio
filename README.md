@@ -78,7 +78,7 @@ appdost-portfolio/
 
 1. **Clone the repository:**
 
-git clone https://github.com/YOUR_USERNAME/appdost-portfolio.git
+git clone https://github.com/dheeraj12347/appdost-portfolio.git
 cd appdost-portfolio
 
 
@@ -137,8 +137,8 @@ Transforming Ideas Into Digital Reality Since 2025
 - Font Awesome 6.4.2
 
 **Links:**
-- 🔗 GitHub Repository: [YOUR_GITHUB_URL]
-- 🌐 Live Demo: [YOUR_VERCEL_URL]
+- 🔗 GitHub Repository:(https://github.com/dheeraj12347/appdost-portfolio)
+- 🌐 Live Demo: (https://appdost-portfolio.vercel.app/)
 
 ---
 
